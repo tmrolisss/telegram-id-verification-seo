@@ -63,3 +63,23 @@ Telegram 身份核验、Telegram 二要素验证、姓名身份证号核验、�
 ## 免责声明
 
 请仅在具备合法业务依据和必要权限的场景中处理个人信息，并遵守适用的数据保护与平台规则。本文档不包含生产数据库、API Token、钱包地址或机器人源代码。
+
+
+---
+
+## 文档站 / Documentation site
+
+完整版文档与可复制示例已整理到独立站点：
+
+- <https://nujacha.today/?utm_source=github&start=src_github_readme> — 索引页
+- <https://nujacha.today/id-check-digit.html?start=src_github_algorithm> — 校验位算法（MOD 11-2）含手算示例
+- <https://nujacha.today/masked-id.html?start=src_github_masked> — 打码身份证反查的可还原边界
+- <https://nujacha.today/batch-csv.html?start=src_github_batch> — 批量 txt/csv 格式与结果字段
+- <https://nujacha.today/telegram-bot.html?start=src_github_guide> — 机器人完整使用流程
+- <https://nujacha.today/faq.html?start=src_github_faq> — 计费、失败原因与数据保留说明
+
+工具入口：<https://t.me/xinxi_heyan_bot?start=src_github_readme>
+更新频道：<https://t.me/er_su_check?start=src_github_readme>
+交流群：<https://t.me/er_su_chat?start=src_github_readme>
+
+Sitemap: <https://nujacha.today/sitemap.xml>
